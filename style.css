@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+span {
+    margin-top: 50px;
+}
+
+.imageSection {
+    display: flex;
+    justify-content: center;
+}
+
+.sectionStyle {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: aqua;
+}
+
+img {
+    width: 450px;
+    height: 360px;
+}
